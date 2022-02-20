@@ -1,0 +1,2 @@
+amazon | binal@gmail.com | 12345
+ebay | binal@gmail.com | qwerty
